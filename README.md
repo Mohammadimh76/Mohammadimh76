@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### My Name is Mohammad Hossein Mohammadi :)
-⚡𝑻𝒉𝒆 𝒃𝒆𝒔𝒕 𝒘𝒂𝒚 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒎𝒆:
-"𝑴.𝒉.𝒎𝒐𝒉𝒂𝒎𝒎𝒂𝒅𝒊𝒎𝒊𝒓2017@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎"
+## The Best Way to reach me: ...> "M.H.MohammadiMir2017[at]gmail.com"
 <!--
 **Mohammadimh76/Mohammadimh76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
