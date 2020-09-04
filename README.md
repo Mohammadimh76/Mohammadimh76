@@ -12,6 +12,14 @@ Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Hi
 
 I am also interested in Cooking, Travel, and Cycling.
 
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
+[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
+[5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
+[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
 ## Contact information:
 
@@ -19,12 +27,12 @@ I am also interested in Cooking, Travel, and Cycling.
 |-----------|--------------------|
 | 📧 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 👉 | M.H.Mohammadimir2017@gmail.com |
 | 🌐 Personal Page 👉 | [Mohammadimh76.github.io](https://mohammadimh76.github.io/) |
-|  [![alt text][Telegram](http://telegram.me/moahmmadimh76) | ![alt text][1.2][Skype](https://join.skype.com/invite/eaKIKxAO1irG)  |
-|  [Linkedin](https://www.linkedin.com/in/mohammadimh76/) | [Twitter](https://twitter.com/Mh76Mohammadi)  |
-|  [FaceBook](https://www.facebook.com/mohammadimh76) | [Dribbble](https://dribbble.com/Mohammadimh76)  |
+|  [Telegram](http://telegram.me/moahmmadimh76) | [Skype](https://join.skype.com/invite/eaKIKxAO1irG)  |
+|  [Linkedin](https://www.linkedin.com/in/mohammadimh76/) | ![alt text][1.2] [Twitter](https://twitter.com/Mh76Mohammadi)  |
+|  ![alt text][2.2] [FaceBook](https://www.facebook.com/mohammadimh76) | ![alt text][5.2] [Dribbble](https://dribbble.com/Mohammadimh76)  |
 | 📞 Phone | (+98) 913-403-2885  |
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
 
 ## More
 <p><img src="https://github-readme-stats.vercel.app/api?username=Mohammadimh76&amp;show_icons=true" alt="GitHub Stats"></p>
