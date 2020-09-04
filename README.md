@@ -3,6 +3,9 @@ I am currently a last-year BS.c student at the Department of Computer Engineerin
 
 Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Highschool in September 2015. I tried to use my Diploma to build a solid bedrock for my future research. So, in addition to taking many optional bachelor-level courses on math and computer science. I spent six months as an intern Programmer at the "CoTech" in Isfahan.
 
+---
+
+## My 𝐦𝐚𝐢𝐧 𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 are:
 My 𝐦𝐚𝐢𝐧 𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 are:
 - Artificial Intelligence, Machine Learning
 - Optimization Algorithm, Neural & NeuroFuzzy Network
