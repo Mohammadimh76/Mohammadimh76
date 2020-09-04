@@ -19,12 +19,12 @@ I am also interested in Cooking, Travel, and Cycling.
 |-----------|--------------------|
 | 📧 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 👉 | M.H.Mohammadimir2017@gmail.com |
 | 🌐 Personal Page 👉 | [Mohammadimh76.github.io](https://mohammadimh76.github.io/) |
-|  [![alt text][Telegram](http://telegram.me/moahmmadimh76) | ![alt text][1.1][Skype](https://join.skype.com/invite/eaKIKxAO1irG)  |
+|  [![alt text][Telegram](http://telegram.me/moahmmadimh76) | ![alt text][1.2][Skype](https://join.skype.com/invite/eaKIKxAO1irG)  |
 |  [Linkedin](https://www.linkedin.com/in/mohammadimh76/) | [Twitter](https://twitter.com/Mh76Mohammadi)  |
 |  [FaceBook](https://www.facebook.com/mohammadimh76) | [Dribbble](https://dribbble.com/Mohammadimh76)  |
 | 📞 Phone | (+98) 913-403-2885  |
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
 ## More
 <p><img src="https://github-readme-stats.vercel.app/api?username=Mohammadimh76&amp;show_icons=true" alt="GitHub Stats"></p>
