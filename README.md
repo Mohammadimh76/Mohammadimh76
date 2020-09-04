@@ -21,6 +21,7 @@ I am also interested in Cooking, Travel, and Cycling.
 [5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
+
 ## Contact information:
 
 | Social Networks  | 🔗 Link          |
@@ -28,8 +29,8 @@ I am also interested in Cooking, Travel, and Cycling.
 | 📧 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 👉 | M.H.Mohammadimir2017@gmail.com |
 | 🌐 Personal Page 👉 | [Mohammadimh76.github.io](https://mohammadimh76.github.io/) |
 |  [Telegram](http://telegram.me/moahmmadimh76) | [Skype](https://join.skype.com/invite/eaKIKxAO1irG)  |
-|  [Linkedin](https://www.linkedin.com/in/mohammadimh76/) | ![alt text][1.2] [Twitter](https://twitter.com/Mh76Mohammadi)  |
-|  ![alt text][2.2] [FaceBook](https://www.facebook.com/mohammadimh76) | ![alt text][5.2] [Dribbble](https://dribbble.com/Mohammadimh76)  |
+|  [Linkedin](https://www.linkedin.com/in/mohammadimh76/) | [Twitter](https://twitter.com/Mh76Mohammadi)  |
+|  [FaceBook](https://www.facebook.com/mohammadimh76) | [Dribbble](https://dribbble.com/Mohammadimh76)  |
 | 📞 Phone | (+98) 913-403-2885  |
 
 
