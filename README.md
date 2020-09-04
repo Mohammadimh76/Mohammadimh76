@@ -13,6 +13,27 @@ Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Hi
 I am also interested in Cooking, Travel, and Cycling.
 
 
+
+
+## Skills
+Below is a list of technologies I'm proficient with:
+
+| Category  | Framework          |
+|-----------|--------------------|
+| 🌐 Languages | Swift, Objective-C |
+| 📱 User Interface | UIKit, SnapKit  |
+| 💥 Animations | Core Animation, Lottie  |
+| 📶 Networking | Alamofire, URLSession, AFNetworking  |
+| 🧊  3D & AR | Model I/O, SceneKit, ARKit   |
+| 🎸 Music | MediaPlayer, Apple Music API, Music Kit   |
+| 🔩 Hardware | Core Bluetooth   |
+| 🔮 Async Programming | RxSwift, Combine, PromiseKit   |
+| 📍 Maps | MapKit, MapKit-JS, Core Location |
+| 🛢 Databases | Core Data  |
+| ⌚️ Apple Watch | WatchKit, WatchConnectivity |
+| 📦 Package Management | CocoaPods, Carthage, Swift PM  |
+| 🤷‍♀️ Other | LocalAuthentication, Core Motion   |
+
 ## Contact information:
 
 |-----------|--------------------|
