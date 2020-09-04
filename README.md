@@ -3,7 +3,7 @@ I am currently a last-year BS.c student at the Department of Computer Engineerin
 
 Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Highschool in September 2015. I tried to use my Diploma to build a solid bedrock for my future research. So, in addition to taking many optional bachelor-level courses on math and computer science. I spent six months as an intern Programmer at the "CoTech" in Isfahan.
 
------
+---
 
 ## My main research interests
 - Artificial Intelligence, Machine Learning
@@ -13,13 +13,14 @@ Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Hi
 I am also interested in Cooking, Travel, and Cycling.
 
 
-
 ## Contact information:
-𝐌𝐲 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐚𝐠𝐞: 👉 [Mohammadimh76.github.io](https://mohammadimh76.github.io/)
 
-𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞: 👉 M.H.Mohammadimir2017@gmail.com
+| 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 👉 | M.H.Mohammadimir2017@gmail.com |
+| 🌐 Personal Page | [Mohammadimh76.github.io](https://mohammadimh76.github.io/) |
+| 📱 [Linkdin](https://www.linkedin.com/in/mohammadimh76/) | [Twitter](https://twitter.com/Mh76Mohammadi)  |
+| 💥 [FaceBook](https://www.facebook.com/mohammadimh76) | [Dribbble](https://dribbble.com/Mohammadimh76)  |
 
-----
+--
 
 ## More
 <p><img src="https://github-readme-stats.vercel.app/api?username=Mohammadimh76&amp;show_icons=true" alt="GitHub Stats"></p>
