@@ -6,7 +6,7 @@ Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Hi
 ---
 
 ## My main research interests
-- Artificial Intelligence, Machine Learning
+- Artificial Intelligence, Machine Learning   
 - Optimization Algorithm, Neural & NeuroFuzzy Network
 - Computer Vision, Signal and Image Processing
 
