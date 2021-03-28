@@ -1,5 +1,5 @@
 ## Hello, My name is Mohammad Hossein Mohammadi!
-I Am currently a Final-year 🎓𝐁𝐒.𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Computer Engineering, [𝐈𝐬𝐥𝐚𝐦𝐢𝐜 𝐀𝐳𝐚𝐝 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲, 𝐍𝐚𝐣𝐚𝐟𝐚𝐛𝐚𝐝 𝐁𝐫𝐚𝐧𝐜𝐡 (𝐈𝐀𝐔𝐍)](https://www.iaun.ac.ir/en/) [(𝐫𝐚𝐜𝐤𝐞𝐝 𝐰𝐢𝐭𝐡𝐢𝐧 𝐭𝐡𝐞 𝐭𝐨𝐩 𝟑 𝐮𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐢𝐞𝐬 𝐢𝐧 𝐈𝐫𝐚𝐧 𝐚𝐜𝐜𝐨𝐫𝐝𝐢𝐧𝐠 𝐭𝐨 𝟐𝟎𝟐𝟎-𝟐𝟏 𝐂𝐖𝐔𝐑 𝐫𝐚𝐧𝐤𝐢𝐧𝐠)](https://cwur.org/2020-21/Islamic-Azad-University.php) where I am a member of the Bioinformatics Laboratory (BL), advised by [𝐏𝐫𝐨𝐟. 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐚𝐝𝐞𝐫𝐢 𝐃𝐞𝐡𝐤𝐨𝐫𝐝𝐢](http://research.iaun.ac.ir/pd/naderi/). My research involves machine vision, deep learning, and neural networks. Where I will complete 𝐦𝐲 𝐭𝐡𝐞𝐬𝐢𝐬 𝐨𝐧 𝐀𝐜𝐜𝐮𝐫𝐚𝐭𝐞 𝐚𝐧𝐝 𝐄𝐚𝐫𝐥𝐲 𝐈𝐝𝐞𝐧𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐃𝐢𝐚𝐛𝐞𝐭𝐞𝐬, 𝐚𝐧𝐝 𝐢𝐭'𝐬 𝐀𝐟𝐟𝐞𝐜𝐭𝐢𝐧𝐠 𝐅𝐚𝐜𝐭𝐨𝐫𝐬.
+I Am currently a Final-year 🎓𝘽𝙎.𝙘 𝙨𝙩𝙪𝙙𝙚𝙣𝙩 at the Department of Computer Engineering, [𝙄𝙨𝙡𝙖𝙢𝙞𝙘 𝘼𝙯𝙖𝙙 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮, 𝙉𝙖𝙟𝙖𝙛𝙖𝙗𝙖𝙙 𝘽𝙧𝙖𝙣𝙘𝙝 (𝙄𝘼𝙐𝙉)](https://www.iaun.ac.ir/en/) [(𝙍𝙖𝙘𝙠𝙚𝙙 𝙬𝙞𝙩𝙝𝙞𝙣 𝙩𝙝𝙚 𝙩𝙤𝙥 𝟯 𝙪𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙞𝙚𝙨 𝙞𝙣 𝙄𝙧𝙖𝙣 𝙖𝙘𝙘𝙤𝙧𝙙𝙞𝙣𝙜 𝙩𝙤 𝟐𝟎𝟐𝟎 - 𝟐𝟏 𝘾𝙒𝙐𝙍 𝙍𝙖𝙣𝙠𝙞𝙣𝙜)](https://cwur.org/2020-21/Islamic-Azad-University.php) where I am a member of the Bioinformatics Laboratory (BL), advised by [𝙋𝙧𝙤𝙛.𝙈𝙚𝙝𝙙𝙞 𝙅𝙖𝙗𝙖𝙡𝙖𝙢𝙚𝙡𝙞](http://research.iaun.ac.ir/pd/jabalameli/). My research involves machine vision, deep learning, and neural networks. Where I will complete 𝙢𝙮 𝙩𝙝𝙚𝙨𝙞𝙨 𝙤𝙣 𝙎𝙚𝙢𝙖𝙣𝙩𝙞𝙘 𝙨𝙚𝙜𝙢𝙚𝙣𝙩𝙖𝙩𝙞𝙤𝙣 𝙤𝙛 𝙗𝙧𝙚𝙖𝙨𝙩 𝙘𝙖𝙣𝙘𝙚𝙧 𝙥𝙖𝙩𝙝𝙤𝙡𝙤𝙜𝙮 𝙞𝙢𝙖𝙜𝙚𝙨 𝙪𝙨𝙞𝙣𝙜 𝙩𝙝𝙚 𝙐-𝙉𝙚𝙩 𝙢𝙤𝙙𝙚𝙡.
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/cainesap/cainesap/blob/master/ralph.gif">
@@ -30,8 +30,8 @@ I am also interested in Cooking, Travel, and Cycling.
 ## Contact information:
 | Social Networks  | 🔗 Link          |
 |-----------|--------------------|
-| 📧 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 👉 | M.H.Mohammadimir2017@gmail.com |
-| 💥 𝐌𝐲 𝐁𝐫𝐚𝐧𝐝  | [UnRonicy](https://www.instagram.com/unronicy/) |
+| 📧 𝙏𝙝𝙚 𝘽𝙚𝙨𝙩 𝙒𝙖𝙮 𝙩𝙤 𝙍𝙚𝙖𝙘𝙝 𝙈𝙚 👉 | M.H.Mohammadimir2017@gmail.com |
+| 💥 𝙈𝙮 𝘽𝙧𝙖𝙣𝙙  | [UnRonicy](https://www.instagram.com/unronicy/) |
 | 🌐 Personal Page 👉 | [Mohammadimh76.github.io](https://mohammadimh76.github.io/) |
 |  [Telegram](http://telegram.me/mohammadimh76) | [Skype](https://join.skype.com/invite/eaKIKxAO1irG)  |
 |  [Linkedin](https://www.linkedin.com/in/mohammadimh76/) | [Twitter](https://twitter.com/Mh76Mohammadi)  |
