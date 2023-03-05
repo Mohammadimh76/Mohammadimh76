@@ -10,6 +10,12 @@
   <img width="500" height="500" src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76/master/hi.gif">
 </p>
 -->
+
+<!--
+<p align="center">
+  <img width="500" height="500" src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76/master/hi.gif">
+</p>
+-->
 ---
 
 ## My main research interests
