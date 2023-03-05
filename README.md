@@ -1,10 +1,15 @@
 ## Hello, My name is Mohammad Hossein Mohammadi!
-<!-- I am Information Technology (IT) Engineer from [𝙄𝙨𝙡𝙖𝙢𝙞𝙘 𝘼𝙯𝙖𝙙 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮, 𝙉𝙖𝙟𝙖𝙛𝙖𝙗𝙖𝙙 𝘽𝙧𝙖𝙣𝙘𝙝 (𝙄𝘼𝙐𝙉)](https://www.iaun.ac.ir/en/) [(𝙍𝙖𝙘𝙠𝙚𝙙 𝙬𝙞𝙩𝙝𝙞𝙣 𝙩𝙝𝙚 𝙩𝙤𝙥 𝟯 𝙪𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙞𝙚𝙨 𝙞𝙣 𝙄𝙧𝙖𝙣 𝙖𝙘𝙘𝙤𝙧𝙙𝙞𝙣𝙜 𝙩𝙤 𝟐𝟎𝟐𝟎 - 𝟐𝟏 𝘾𝙒𝙐𝙍 𝙍𝙖𝙣𝙠𝙞𝙣𝙜)](https://cwur.org/2020-21/Islamic-Azad-University.php). My research involves machine vision, deep learning, and neural networks. Where I will complete 𝙢𝙮 𝙩𝙝𝙚𝙨𝙞𝙨 𝙤𝙣 𝙎𝙚𝙢𝙖𝙣𝙩𝙞𝙘 𝙨𝙚𝙜𝙢𝙚𝙣𝙩𝙖𝙩𝙞𝙤𝙣 𝙤𝙛 𝙗𝙧𝙚𝙖𝙨𝙩 𝙘𝙖𝙣𝙘𝙚𝙧 𝙥𝙖𝙩𝙝𝙤𝙡𝙤𝙜𝙮 𝙞𝙢𝙖𝙜𝙚𝙨 𝙪𝙨𝙞𝙣𝙜 𝙩𝙝𝙚 𝙐-𝙉𝙚𝙩 𝙢𝙤𝙙𝙚𝙡. -->
 
+### ☕ [buymeacoffee](https://www.buymeacoffee.com/mohammadimh76)
+
+- I am a <b>master</b>’s Student at <b>Shahid Beheshti</b> university.
+- I finished my <b>BSc</b> in Information Technology (IT) Engineer from Islamic Azad University, Najafabad Branch (<b>IAUN</b>) (Racked within the top 3 universities in Iran according to 2021 - 2022 CWUR Ranking). My research involves machine vision, deep learning, and neural networks. I completed my <b>thesis</b> on Semantic segmentation of breast cancer pathology images using the U-Net model.
+
+<!--
 <p align="center">
   <img width="500" height="500" src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76/master/hi.gif">
 </p>
-
+-->
 ---
 
 ## My main research interests
@@ -29,7 +34,6 @@ I am also interested in Cooking, Travel, and Cycling.
 | Social Networks  | 🔗 Link          |
 |-----------|--------------------|
 | 📧 𝙏𝙝𝙚 𝘽𝙚𝙨𝙩 𝙒𝙖𝙮 𝙩𝙤 𝙍𝙚𝙖𝙘𝙝 𝙈𝙚 👉 | M.H.Mohammadimir2017@gmail.com |
-| 💥 𝙈𝙮 𝘽𝙧𝙖𝙣𝙙  | [UnRonicy](https://www.instagram.com/unronicy/) |
 | 🌐 Personal Page 👉 | [Mohammadimh76.github.io](https://mohammadimh76.github.io/) |
 |  [Telegram](http://telegram.me/mohammadimh76) | [Skype](https://join.skype.com/invite/eaKIKxAO1irG)  |
 |  [Linkedin](https://www.linkedin.com/in/mohammadimh76/) | [Twitter](https://twitter.com/Mh76Mohammadi)  |
