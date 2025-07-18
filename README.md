@@ -1,6 +1,6 @@
 ## Hello, My name is Mohammad Hossein Mohammadi!
 
-### ☕ [buymeacoffee](https://www.buymeacoffee.com/mohammadimh76)
+<!-- ### ☕ [buymeacoffee](https://www.buymeacoffee.com/mohammadimh76) -->
 
 - I finished my <b>BSc</b> in Information Technology (IT) Engineer from Islamic Azad University, Najafabad Branch (<b>IAUN</b>) (Racked within the top 3 universities in Iran according to 2021 - 2022 CWUR Ranking). My research involves machine vision, deep learning, and neural networks. I completed my <b>thesis</b> on Semantic segmentation of breast cancer pathology images using the U-Net model.
 
@@ -35,14 +35,23 @@ I am also interested in Cooking, Travel, and Cycling.
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
 
-## Contact information:
-| Social Networks  | 🔗 Link          |
-|-----------|--------------------|
-| 📧 <b>The Best Way to reach me</b> 👉 | M.H.Mohammadimir2017@gmail.com |
-| 🌐 Personal Website 👉 | [Mohammadimh76.github.io](https://mohammadimh76.github.io/) |
-| 📚 Blog 👉 | [Medium: @mohammadimh76](https://medium.com/@mohammadimh76) |
-|  [Telegram](http://telegram.me/mohammadimh76) | [Skype](https://join.skype.com/invite/eaKIKxAO1irG)  |
-|  [Linkedin](https://www.linkedin.com/in/mohammadimh76/) | [Twitter](https://twitter.com/Mh76Mohammadi)  |
+## 📡 Reach Out: 
+
+| Connect With Me | <img src="https://cdn-icons-png.flaticon.com/512/84/84380.png" width="16"/>&nbsp;Link  |
+|-----------------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20"/>&nbsp; **The Best Way to reach me** 👉 | M.H.Mohammadimir2017@gmail.com |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> &nbsp; Personal Website | [Mohammadimh76.github.io](https://mohammadimh76.github.io/) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> &nbsp; LinkedIn | [Mohammadimh76](https://www.linkedin.com/in/mohammadimh76/) |
+| <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="20"/> &nbsp; Medium  | [Mohammadimh76](https://medium.com/@mohammadimh76) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20"/> &nbsp; Twitter | [Mh76Mohammadi](https://twitter.com/Mh76Mohammadi) |
+<!-- | <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20"/> &nbsp; Telegram | [Mohammadimh76](http://telegram.me/mohammadimh76) | -->
+
+
+
+
+
+
+
 
 
 ## More
