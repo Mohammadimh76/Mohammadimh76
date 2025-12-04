@@ -1,5 +1,7 @@
 ## Hello, My name is Mohammad Hossein Mohammadi!
 
+<!-- Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=Mohammadimh76&color=blue) -->
+
 <!-- ### ☕ [buymeacoffee](https://www.buymeacoffee.com/mohammadimh76) -->
 
 - I finished my <b>BSc</b> in Information Technology (IT) Engineer from Islamic Azad University, Najafabad Branch (<b>IAUN</b>) (Racked within the top 3 universities in Iran according to 2021 - 2022 CWUR Ranking). My research involves machine vision, deep learning, and neural networks. I completed my <b>thesis</b> on Semantic segmentation of breast cancer pathology images using the U-Net model.
