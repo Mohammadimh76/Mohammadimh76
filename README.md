@@ -1,10 +1,9 @@
-## Hello, My name is Mohammad Hossein Mohammadi!
+
 
 <!-- Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=Mohammadimh76&color=blue) -->
 
 <!-- ### ☕ [buymeacoffee](https://www.buymeacoffee.com/mohammadimh76) -->
 
-- I finished my <b>BSc</b> in Information Technology (IT) Engineer from Islamic Azad University, Najafabad Branch (<b>IAUN</b>) (Racked within the top 3 universities in Iran according to 2021 - 2022 CWUR Ranking). My research involves machine vision, deep learning, and neural networks. I completed my <b>thesis</b> on Semantic segmentation of breast cancer pathology images using the U-Net model.
 
 <!--
 <p align="center">
@@ -17,14 +16,9 @@
   <img width="250" height="250" src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76/master/src/buymeacoffee.png">
 </p>
 -->
----
 
-## My main research interests
-- Artificial Intelligence, Machine Learning   
-- Optimization Algorithm, Neural & Neuro Fuzzy Network
-- Computer Vision, Signal and Image Processing
 
-I am also interested in Cooking, Travel, and Cycling.
+
 
 
 <!-- icons without padding -->
@@ -37,30 +31,61 @@ I am also interested in Cooking, Travel, and Cycling.
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
 
-## 📡 Reach Out: 
-
-| Connect With Me | <img src="https://cdn-icons-png.flaticon.com/512/84/84380.png" width="16"/>&nbsp;Link  |
-|-----------------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20"/>&nbsp; **The Best Way to reach me** 👉 | M.H.Mohammadimir2017@gmail.com |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> &nbsp; Personal Website | [Mohammadimh76.github.io](https://mohammadimh76.github.io/) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> &nbsp; LinkedIn | [Mohammadimh76](https://www.linkedin.com/in/mohammadimh76/) |
-| <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="20"/> &nbsp; Medium  | [Mohammadimh76](https://medium.com/@mohammadimh76) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20"/> &nbsp; Twitter | [Mh76Mohammadi](https://twitter.com/Mh76Mohammadi) |
-<!-- | <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20"/> &nbsp; Telegram | [Mohammadimh76](http://telegram.me/mohammadimh76) | -->
 
 
+# Hi there, I'm Mohammad Hossein Mohammadi! 👋
 
+## 🎓 About Me
 
+I hold a **BSc in Information Technology Engineering** from Islamic Azad University, Najafabad Branch (**IAUN**), ranked among the top 3 universities in Iran according to the 2021-2022 CWUR Rankings. 
 
+My thesis focused on **Semantic Segmentation of Breast Cancer Pathology Images** using the U-Net model, combining my passion for machine vision, deep learning, and neural networks to advance medical image analysis.
 
+---
 
+## 🔬 Research Interests
 
+My primary research areas include:
+
+- **Deep Learning & Neural Network Optimization**
+- **Computer Vision & Medical Image Analysis**
+- **Natural Language Processing (NLP) & Multimodal AI**
+- **Generative AI & Diffusion Models**
+
+Beyond research, I enjoy **cooking**, **traveling**, and **cycling**.
+
+---
+
+## 📫 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| 📧 **Email** (Best way to reach me) | [M.H.Mohammadimir2017@gmail.com](mailto:M.H.Mohammadimir2017@gmail.com) |
+| 🌐 **Personal Website** | [mohammadimh76.github.io](https://mohammadimh76.github.io/) |
+| 💼 **LinkedIn** | [Mohammadimh76](https://www.linkedin.com/in/mohammadimh76/) |
+| ✍️ **Medium** | [@mohammadimh76](https://medium.com/@mohammadimh76) |
+| 🐦 **Twitter** | [@Mh76Mohammadi](https://twitter.com/Mh76Mohammadi) |
+
+<!--
+---
+
+## 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mohammadimh76&color=blue&style=flat-square)
+-->
 
 ## More
 
 | GitHub Stats  | Languages          |
 |-----------|--------------------|
 | <p><img src="https://github-readme-stats.vercel.app/api?username=Mohammadimh76&amp;show_icons=true" alt="GitHub Stats"></p> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadimh76&layout=compact)](https://github.com/Mohammadimh76/github-readme-stats) |
+
+
+---
+
+*Feel free to explore my repositories and reach out for collaborations!*
+
+
 
 
 
