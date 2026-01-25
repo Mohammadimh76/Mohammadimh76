@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 ## 💫 About Me
 
 - Former Bachelor's student in Computer Engineering at [Islamic Azad University, Najafabad Branch (**IAUN**)](https://iaun.iau.ir/en)
