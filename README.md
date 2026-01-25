@@ -42,11 +42,11 @@ Beyond research, I enjoy **🍳 Cooking**, **✈️ Traveling**, and **🚴 Cycl
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammadimh76&show_icons=true" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Mohammadimh76&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammadimh76&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadimh76&layout=compact" alt="Top Langs" />
 </p>
 
