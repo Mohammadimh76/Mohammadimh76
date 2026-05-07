@@ -25,6 +25,19 @@ You can contact me through email: M[dot]H[dot]Mohammadimir2017[at]gmail[dot]com
 
 ---
 
+### LeetCode Daily Report
+
+| W | D | Problem                | Topic  | Lv   |
+| - | - | ---------------------- | ------ | ---- |
+| 1 | 1 | 26- Remove Duplicates from Sorted Array <br> 27- Remove Element  | Array, Two Pointers | Easy |
+| 1 | 2 | 283- Move Zeroes <br> 88- Merge Sorted Array   | Array, Two Pointers | Easy |
+| 1 | 3 | 977- Squares of a Sorted Array <br> 344- Reverse String   | Array, Two Pointers, Sorting / Two Pointers, String | Easy |
+| 1 | 4 | 345- Reverse Vowels of a String <br> 125- Valid Palindrome  | Two Pointers, String | Easy |
+| 1 | 5 | Rest (review)  |  |  |
+
+
+---
+
 ## 🔬 Research Interests
 
 ### 🤖 Core Expertise
