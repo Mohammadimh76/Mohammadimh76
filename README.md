@@ -35,7 +35,7 @@ You can contact me through email: M[dot]H[dot]Mohammadimir2017[at]gmail[dot]com
 | 1 | 2 | 283- Move Zeroes <br> 88- Merge Sorted Array   | Array, Two Pointers | Easy |
 | 1 | 3 | 977- Squares of a Sorted Array <br> 344- Reverse String   | Array, Two Pointers, Sorting / Two Pointers, String | Easy |
 | 1 | 4 | 345- Reverse Vowels of a String <br> 125- Valid Palindrome  | Two Pointers, String | Easy |
-| 1 | 5 | Rest (review)  |  |  |
+| 1 | 5 | Rest (review)  | ---- | ---- |
 
 
 ---
