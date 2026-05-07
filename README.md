@@ -25,7 +25,9 @@ You can contact me through email: M[dot]H[dot]Mohammadimir2017[at]gmail[dot]com
 
 ---
 
-### LeetCode Daily Report
+## 🔴LeetCode Daily Report
+
+**Count:** 8 &nbsp;•&nbsp; **Easy:** 8 &nbsp;•&nbsp; **Medium:** 0 &nbsp;•&nbsp; **Hard:** 0  
 
 | W | D | Problem                | Topic  | Lv   |
 | - | - | ---------------------- | ------ | ---- |
