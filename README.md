@@ -33,9 +33,9 @@ You can contact me through email: M[dot]H[dot]Mohammadimir2017[at]gmail[dot]com
 | W | D | Problem                | Topic  | Lv   |
 | - | - | ---------------------- | ------ | ---- |
 | 1 | 1 | [26- Remove Duplicates from Sorted Array](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0026-remove-duplicates-from-sorted-array) <br> [27- Remove Element](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0027-remove-element)  | Array, Two Pointers | Easy |
-| 1 | 2 | 283- Move Zeroes <br> 88- Merge Sorted Array   | Array, Two Pointers | Easy |
-| 1 | 3 | 977- Squares of a Sorted Array <br> 344- Reverse String   | Array, Two Pointers, Sorting / Two Pointers, String | Easy |
-| 1 | 4 | 345- Reverse Vowels of a String <br> 125- Valid Palindrome  | Two Pointers, String | Easy |
+| 1 | 2 | [283- Move Zeroes](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0283-move-zeroes) <br> [88- Merge Sorted Array](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0088-merge-sorted-array)   | Array, Two Pointers | Easy |
+| 1 | 3 | [977- Squares of a Sorted Array](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0977-squares-of-a-sorted-array) <br> [344- Reverse String](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0344-reverse-string)   | Array, Two Pointers, Sorting / Two Pointers, String | Easy |
+| 1 | 4 | [345- Reverse Vowels of a String](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0345-reverse-vowels-of-a-string) <br> [125- Valid Palindrome](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0125-valid-palindrome)  | Two Pointers, String | Easy |
 | 1 | 5 | Rest (review)  | ---- | ---- |
 
 
