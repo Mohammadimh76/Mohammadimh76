@@ -37,6 +37,7 @@ You can contact me through email: M[dot]H[dot]Mohammadimir2017[at]gmail[dot]com
 | 1 | 3 | [977- Squares of a Sorted Array](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0977-squares-of-a-sorted-array) <br> [344- Reverse String](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0344-reverse-string)   | Array, Two Pointers, Sorting / Two Pointers, String | Easy |
 | 1 | 4 | [345- Reverse Vowels of a String](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0345-reverse-vowels-of-a-string) <br> [125- Valid Palindrome](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0125-valid-palindrome)  | Two Pointers, String | Easy |
 | 1 | 5 | Rest (review)  | ---- | ---- |
+| 1 | 6 | 680- Valid Palindrome II  | Two Pointers, String, Greedy | Easy |
 
 
 ---
