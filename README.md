@@ -27,8 +27,8 @@ You can contact me through email: M[dot]H[dot]Mohammadimir2017[at]gmail[dot]com
 
 ## 🔴LeetCode Daily Report
 
-**(LPC-1)** &nbsp;•&nbsp; **Week:** 01/24 &nbsp;•&nbsp; **Day:** 06/168   
-**Count:** 9 &nbsp;•&nbsp; **Easy:** 9 &nbsp;•&nbsp; **Medium:** 0 &nbsp;•&nbsp; **Hard:** 0  
+**(LPC-1)** &nbsp;•&nbsp; **Week:** 01/24 &nbsp;•&nbsp; **Day:** 07/168   
+**Count:** 10 &nbsp;•&nbsp; **Easy:** 9 &nbsp;•&nbsp; **Medium:** 01 &nbsp;•&nbsp; **Hard:** 0  
 
 | W | D | Problem                | Topic  | Lv   |
 | - | - | ---------------------- | ------ | ---- |
@@ -38,6 +38,7 @@ You can contact me through email: M[dot]H[dot]Mohammadimir2017[at]gmail[dot]com
 | 1 | 4 | [345- Reverse Vowels of a String](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0345-reverse-vowels-of-a-string) <br> [125- Valid Palindrome](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0125-valid-palindrome)  | Two Pointers, String | Easy |
 | 1 | 5 | Rest (review)  | ---- | ---- |
 | 1 | 6 | [680- Valid Palindrome II](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0680-valid-palindrome-II)  | Two Pointers, String, Greedy | Easy |
+| 1 | 7 | 167- Two Sum II - Input Array Is Sorted   | Array, Two Pointers, Binary Search | Medium |
 
 
 ---
