@@ -27,18 +27,13 @@ You can contact me through email: M[dot]H[dot]Mohammadimir2017[at]gmail[dot]com
 
 ## 🔴LeetCode Daily Report
 
-**(LPC-1)** &nbsp;•&nbsp; **Week:** 01/24 &nbsp;•&nbsp; **Day:** 07/168   
-**Count:** 10 &nbsp;•&nbsp; **Easy:** 9 &nbsp;•&nbsp; **Medium:** 01 &nbsp;•&nbsp; **Hard:** 0  
+**(LPC-1)** &nbsp;•&nbsp; **Week:** 02/24 &nbsp;•&nbsp; **Day:** 08/168   
+**Count:** 12 &nbsp;•&nbsp; **Easy:** 9+1 &nbsp;•&nbsp; **Medium:** 01+1 &nbsp;•&nbsp; **Hard:** 0  
 
 | W | D | Problem                | Topic  | Lv   |
 | - | - | ---------------------- | ------ | ---- |
-| 1 | 1 | [26- Remove Duplicates from Sorted Array](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0026-remove-duplicates-from-sorted-array) <br> [27- Remove Element](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0027-remove-element)  | Array, Two Pointers | Easy |
-| 1 | 2 | [283- Move Zeroes](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0283-move-zeroes) <br> [88- Merge Sorted Array](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0088-merge-sorted-array)   | Array, Two Pointers | Easy |
-| 1 | 3 | [977- Squares of a Sorted Array](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0977-squares-of-a-sorted-array) <br> [344- Reverse String](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0344-reverse-string)   | Array, Two Pointers, Sorting / Two Pointers, String | Easy |
-| 1 | 4 | [345- Reverse Vowels of a String](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0345-reverse-vowels-of-a-string) <br> [125- Valid Palindrome](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0125-valid-palindrome)  | Two Pointers, String | Easy |
-| 1 | 5 | Rest (review)  | ---- | ---- |
-| 1 | 6 | [680- Valid Palindrome II](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0680-valid-palindrome-II)  | Two Pointers, String, Greedy | Easy |
-| 1 | 7 | [167- Two Sum II - Input Array Is Sorted](https://github.com/Mohammadimh76/leetcode-daily-practice/tree/main/python/0167-two-sum-II-input-array-is-sorted) | Array, Two Pointers, Binary Search | Medium |
+| 2 | 8 | 643- Maximum Average Subarray I <br> 1343- Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold  | Array, Sliding Window <br> Array, Sliding Window | Easy <br> Medium |
+
 
 
 ---
