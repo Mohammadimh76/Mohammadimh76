@@ -33,7 +33,7 @@ You can contact me through email: M[dot]H[dot]Mohammadimir2017[at]gmail[dot]com
 
 | W | D | Problem                | Topic  | Lv   |
 | - | - | ---------------------- | :---: | :---: |
-| 2 | 8 | 0643- Maximum Average Subarray I <br> 1343- Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold  | Array, Sliding Window | Easy <br> Medium |
+| 02 | 08 | 0643- Maximum Average Subarray I <br> 1343- Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold  | Array, Sliding Window | Easy <br> Medium |
 
 
 
