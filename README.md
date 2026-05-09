@@ -28,7 +28,7 @@ You can contact me through email: M[dot]H[dot]Mohammadimir2017[at]gmail[dot]com
 ## 🔴LeetCode Daily Report
 
 **(LPC-1)** &nbsp;•&nbsp; **Week:** 02/24 &nbsp;•&nbsp; **Day:** 08/168   
-**Count:** 12 &nbsp;•&nbsp; **Easy:** 9+1 &nbsp;•&nbsp; **Medium:** 01+1 &nbsp;•&nbsp; **Hard:** 0  
+**Count:** 12 &nbsp;•&nbsp; **Easy:** 09+1 &nbsp;•&nbsp; **Medium:** 01+1 &nbsp;•&nbsp; **Hard:** 0  
 
 | W | D | Problem                | Topic  | Lv   |
 | - | - | ---------------------- | ------ | ---- |
