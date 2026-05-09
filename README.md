@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-- Former Bachelor's student in Computer Engineering at [Islamic Azad University, Najafabad Branch (**IAUN**)](https://iaun.iau.ir/en)
+- Former Bachelor's student in Computer Engineering (IT) at [Islamic Azad University, Najafabad Branch (**IAUN**)](https://iaun.iau.ir/en)
 - Bachelor’s thesis on **Semantic Segmentation of Breast Cancer Pathology Images** using **U-Net**
 - 🏆 **2nd Team Rank**, [7th **Mobile Programming Marathon**](http://mpm.sharif.ir/mpm7-2/) — Sharif University of Technology (2019)  
   Team *Chelesme (چِلِسمه)* · **85 teams nationwide**  
