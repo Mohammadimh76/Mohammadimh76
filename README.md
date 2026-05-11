@@ -27,13 +27,14 @@ You can contact me through email: M[dot]H[dot]Mohammadimir2017[at]gmail[dot]com
 
 ## 🔴LeetCode Daily Report
 
-**Date:** 2026/05/10   
-**(LPC-1)** &nbsp;•&nbsp; **Week:** 02/24 &nbsp;•&nbsp; **Day:** 08/168  
-**Count:** 10+2 &nbsp;•&nbsp; **Easy:** 09+1 &nbsp;•&nbsp; **Medium:** 01+1 &nbsp;•&nbsp; **Hard:** 0  
+**Date:** 2026/05/11   
+**(LPC-1)** &nbsp;•&nbsp; **Week:** 02/24 &nbsp;•&nbsp; **Day:** 09/168  
+**Count:** 14 &nbsp;•&nbsp; **Easy:** 09+1 &nbsp;•&nbsp; **Medium:** 04 &nbsp;•&nbsp; **Hard:** 0  
 
 | W | D | Problem                | Topic  | Lv   |
 | - | - | ---------------------- | :---: | :---: |
 | 02 | 08 | 0643- Maximum Average Subarray I <br> 1343- Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold  | Array, Sliding Window | Easy <br> Medium |
+| 02 | 09 | 1456- Maximum Number of Vowels in a Substring of Given Length <br> 1052- Grumpy Bookstore Owner     | String, Sliding Window / Array, Sliding Window | Medium |
 
 
 
