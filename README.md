@@ -28,7 +28,7 @@ You can contact me through email: M[dot]H[dot]Mohammadimir2017[at]gmail[dot]com
 ## 🔴LeetCode Daily Report
 
 **Date:** 2026/05/13   
-**(LPC-1)** &nbsp;•&nbsp; **Week:** 02/24 &nbsp;•&nbsp; **Day:** 11/168  
+**(LPC-1)** &nbsp;•&nbsp; **Week:** 02/24 &nbsp;•&nbsp; **Day:** 12/168  
 **Count:** 18 &nbsp;•&nbsp; **Easy:** 11 &nbsp;•&nbsp; **Medium:** 07 &nbsp;•&nbsp; **Hard:** 0  
 
 | W | D | Problem                | Topic  | Lv   |
@@ -37,6 +37,7 @@ You can contact me through email: M[dot]H[dot]Mohammadimir2017[at]gmail[dot]com
 | 02 | 09 | 1456- Maximum Number of Vowels in a Substring of Given Length <br> 1052- Grumpy Bookstore Owner     | String, Sliding Window / Array, Sliding Window | Medium |
 | 02 | 10 | 219- Contains Duplicate II <br> 209- Minimum Size Subarray Sum | Array, Hash Table, Sliding Window / Array, Sliding Window, Binary Search, Prefix Sum | Easy <br> Medium |
 | 02 | 11 | 0003- Longest Substring Without Repeating Characters <br> 0438- Find All Anagrams in a String | Hash Table, String, Sliding Window | Medium |
+| 02 | 12 | Rest (review) | --- | --- |
 
 
 
