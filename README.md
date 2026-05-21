@@ -27,7 +27,7 @@ You can contact me through email: M[dot]H[dot]Mohammadimir2017[at]gmail[dot]com
 
 ## 🔴LeetCode Daily Report
 
-**Date:** 2026/05/13   
+**Date:** -  
 **(LPC-1)** &nbsp;•&nbsp; **Week:** 02/24 &nbsp;•&nbsp; **Day:** 12/168  
 **Count:** 18 &nbsp;•&nbsp; **Easy:** 11 &nbsp;•&nbsp; **Medium:** 07 &nbsp;•&nbsp; **Hard:** 0  
 
