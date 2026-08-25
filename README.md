@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Mohammad Hossein (Charlie) Mohammadi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hello, I'm Charlie <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### Machine Learning Engineer | Product Designer (Design System Specialist)
 
